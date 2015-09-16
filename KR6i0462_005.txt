@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:11.049439
+#+DATE: 2015-08-30 20:20:15.522540
 #+TITLE: 本事經
 #+PROPERTY: CBETA_ID T17n0765
 #+PROPERTY: ID KR6i0462
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 765
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0462_T_000-0662b>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0462_T_005-0683c> 
 #+PROPERTY: JUAN 5
 ¶
-
- 《本事經》卷第五¶
+《本事經》卷第五¶
 ¶
 大唐三藏法師玄奘奉　詔譯¶
 二法品第二之三¶
@@ -268,7 +267,7 @@
 壽；若有其壽，即有其業。若無其業，即無其壽；¶
 若無其壽，即無其業。如是二法盡滅故死。」
 <pb:KR6i0462_T_005-0685c>¶
-爾時，世尊重攝此義而說頌曰：¶
+爾時，世尊重攝此義而說頒曰：¶
 
 #+BEGIN_VERSE
 「　「二法恒相隨，
@@ -505,7 +504,7 @@
 護身、語、意業，是人即為身、語、意業皆不敗壞；¶
 身、語、意業不敗壞故，其心即無擾濁、垢穢。心¶
 無擾濁及垢穢者，能正了知自利樂事、他利¶
-樂事、俱利樂事，斯有是處；能正了知善言說¶
+樂事、俱利樂事，期有是處；能正了知善言說¶
 義、惡言說義，斯有是處；能證一切勝上人法¶
 真聖智見，斯有是處。所以者何？心無擾濁及¶
 垢穢故。

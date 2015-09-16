@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:10.954007
+#+DATE: 2015-08-30 20:20:15.433871
 #+TITLE: 本事經
 #+PROPERTY: CBETA_ID T17n0765
 #+PROPERTY: ID KR6i0462
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 765
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0462_T_000-0662b>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0462_T_002-0668a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《本事經》卷第二¶
+《本事經》卷第二¶
 ¶
 大唐三藏法師玄奘奉　詔譯¶
 一法品第一之二¶
@@ -498,7 +497,7 @@
 坐臥皆不能安，言笑飲食都無思念，其心驚¶
 惶狂亂吐血，身形萎悴如被刈蘆。以不知¶
 故，安然無畏。所以者何？諸犯戒罪能感惡¶
-趣，增上猛利諸苦果報。」爾時，世尊重攝此¶
+趣，增上猛利諸苦果報。」爾時，至尊重攝此¶
 義而說頌曰：¶
 
 #+BEGIN_VERSE
